@@ -2,7 +2,7 @@ Summary:	GKrellM - themes
 Summary(pl):	GKrellM - motywy
 Name:		gkrellm-themes
 Version:	0.10
-Release:	0.1
+Release:	1
 License:	distributable
 Group:		X11/Applications
 Source0:	http://www.muhri.net/gkrellm/MonkeyLovers.tar.gz
@@ -13,6 +13,7 @@ URL:		http://www.gkrellm.net/
 Requires:	gkrellm
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
+Obsoletes:	gkrellm-theme
 
 %define		_themedir	%{_prefix}/share/gkrellm2/themes
 
@@ -26,6 +27,9 @@ Dodatkowe motywy dla GKrellM.
 Summary:	MonkeyLovers theme
 Summary(pl):	Motyw MonkeyLovers
 Group:		X11/Applications
+Requires:	gkrellm
+Provides:	gkrellm-theme
+Obsoletes:	gkrellm-themes
 
 %description -n gkrellm-theme-MonkeyLovers
 MonkeyLovers theme.
@@ -37,6 +41,9 @@ Motyw MonkeyLovers.
 Summary:	Yellow theme
 Summary(pl):	Motyw Yellow
 Group:		X11/Applications
+Requires:	gkrellm
+Provides:	gkrellm-theme
+Obsoletes:	gkrellm-themes
 
 %description -n gkrellm-theme-Yellow
 Yellow theme.
