@@ -165,7 +165,6 @@ gzip -dc %{SOURCE7} | tar -x -C $RPM_BUILD_ROOT%{_themedir}
 %clean
 rm -rf $RPM_BUILD_ROOT
 
-# XXX: (partially???) duplicates subpackage with no Obsoletes/Conflicts
 %files
 %defattr(644,root,root,755)
 %{_themedir}/*
