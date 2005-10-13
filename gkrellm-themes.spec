@@ -35,7 +35,7 @@ Obsoletes:	gkrellm-theme
 Additional themes for GKrellM.
 
 %description -l pl
-Dodatkowe motywy dla GKrellM.
+Dodatkowe motywy dla GKrellM-a.
 
 %package -n gkrellm-theme-MonkeyLovers
 Summary:	MonkeyLovers theme
@@ -149,21 +149,21 @@ minE-Gkrellm theme.
 %description -n gkrellm-theme-minE-Gkrellm -l pl
 Motyw minE-Gkrellm.
 
-%package -n gkrellm-theme-klearllm                                                                                
-Summary:        Klearllm is a simple, transparent skin for Gkrellm
-Summary(pl):    Klearllm jest prostym, prze¼roczystym motywem dla Gkrellm
+%package -n gkrellm-theme-klearllm
+Summary:        Klearllm - a simple, transparent skin for GkrellM
+Summary(pl):    Klearllm - prosty, prze¼roczysty motyw dla GkrellM-a
 Group:          X11/Applications
 Requires:       gkrellm
 Provides:       gkrellm-theme
 Obsoletes:      gkrellm-themes
 
 %description -n gkrellm-theme-klearllm
-Klearllm is a simple, transparent skin for Gkrellm that has 3 different
-text color schemes.
+Klearllm is a simple, transparent skin for GkrellM that has 3
+different text color schemes.
 
 %description -n gkrellm-theme-klearllm -l pl
-Klearllm jest prostym, prze¼roczystym motywem dla Gkrellm, który posiada
-3 ró¿ne zestawy kolorów tekstu.
+Klearllm jest prostym, prze¼roczystym motywem dla GkrellM-a, który
+posiada 3 ró¿ne zestawy kolorów tekstu.
 
 %prep
 
