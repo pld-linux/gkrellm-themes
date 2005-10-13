@@ -2,7 +2,7 @@ Summary:	GKrellM - themes
 Summary(pl):	GKrellM - motywy
 Name:		gkrellm-themes
 Version:	0.10
-Release:	2	
+Release:	3	
 License:	distributable
 Group:		X11/Applications
 Source0:	http://www.muhri.net/gkrellm/MonkeyLovers.tar.gz
@@ -21,6 +21,8 @@ Source6:	http://www.muhri.net/gkrellm/prime23.tar.gz
 # Source6-md5:	68b1e9d8dad1389950e254bf7946599d
 Source7:	http://www.muhri.net/gkrellm/minE-Gkrellm.tar.gz
 # Source7-md5:	2e83a086214b4fa2990355957a1e5a5f
+Source8:	http://freshmeat.net/redir/klearllm/42537/url_tgz/klearllm-default-0.9.1.tar.gz
+# Source8-md5:	f5a260040d4a88e5803b9289c5e63ad1
 URL:		http://www.gkrellm.net/
 Requires:	gkrellm
 BuildArch:	noarch
@@ -147,6 +149,22 @@ minE-Gkrellm theme.
 %description -n gkrellm-theme-minE-Gkrellm -l pl
 Motyw minE-Gkrellm.
 
+%package -n gkrellm-theme-klearllm                                                                                
+Summary:        Klearllm is a simple, transparent skin for Gkrellm
+Summary(pl):    Klearllm jest prostym, prze¼roczystym motywem dla Gkrellm
+Group:          X11/Applications
+Requires:       gkrellm
+Provides:       gkrellm-theme
+Obsoletes:      gkrellm-themes
+
+%description -n gkrellm-theme-klearllm
+Klearllm is a simple, transparent skin for Gkrellm that has 3 different
+text color schemes.
+
+%description -n gkrellm-theme-klearllm -l pl
+Klearllm jest prostym, prze¼roczystym motywem dla Gkrellm, który posiada
+3 ró¿ne zestawy kolorów tekstu.
+
 %prep
 
 %install
@@ -161,6 +179,7 @@ gzip -dc %{SOURCE4} | tar -x -C $RPM_BUILD_ROOT%{_themedir}
 gzip -dc %{SOURCE5} | tar -x -C $RPM_BUILD_ROOT%{_themedir}
 gzip -dc %{SOURCE6} | tar -x -C $RPM_BUILD_ROOT%{_themedir}
 gzip -dc %{SOURCE7} | tar -x -C $RPM_BUILD_ROOT%{_themedir}
+gzip -dc %{SOURCE8} | tar -x -C $RPM_BUILD_ROOT%{_themedir}
 
 %clean
 rm -rf $RPM_BUILD_ROOT
@@ -200,3 +219,7 @@ rm -rf $RPM_BUILD_ROOT
 %files -n gkrellm-theme-minE-Gkrellm
 %defattr(644,root,root,755)
 %{_themedir}/minE-Gkrellm
+
+%files -n gkrellm-theme-klearllm
+%defattr(644,root,root,755)
+%{_themedir}/klearllm
