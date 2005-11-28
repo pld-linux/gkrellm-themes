@@ -2,7 +2,7 @@ Summary:	GKrellM - themes
 Summary(pl):	GKrellM - motywy
 Name:		gkrellm-themes
 Version:	0.10
-Release:	3	
+Release:	3
 License:	distributable
 Group:		X11/Applications
 Source0:	http://www.muhri.net/gkrellm/MonkeyLovers.tar.gz
@@ -66,26 +66,26 @@ Yellow theme.
 Motyw Yellow.
 
 %package -n gkrellm-theme-niumx
-Summary:        Niumx theme
-Summary(pl):    Motyw Niumx
-Group:          X11/Applications
-Requires:       gkrellm
-Provides:       gkrellm-theme
-Obsoletes:      gkrellm-themes
+Summary:	Niumx theme
+Summary(pl):	Motyw Niumx
+Group:		X11/Applications
+Requires:	gkrellm
+Provides:	gkrellm-theme
+Obsoletes:	gkrellm-themes
 
 %description -n gkrellm-theme-niumx
-Niumx theme.   
+Niumx theme.
 
 %description -n gkrellm-theme-niumx -l pl
 Motyw Niumx.
 
 %package -n gkrellm-theme-Milk
-Summary:        Milk theme
-Summary(pl):    Motyw Milk
-Group:          X11/Applications
-Requires:       gkrellm
-Provides:       gkrellm-theme
-Obsoletes:      gkrellm-themes
+Summary:	Milk theme
+Summary(pl):	Motyw Milk
+Group:		X11/Applications
+Requires:	gkrellm
+Provides:	gkrellm-theme
+Obsoletes:	gkrellm-themes
 
 %description -n gkrellm-theme-Milk
 Milk theme.
@@ -94,12 +94,12 @@ Milk theme.
 Motyw Milk.
 
 %package -n gkrellm-theme-keramik
-Summary:        Keramik theme
-Summary(pl):    Motyw keramik
-Group:          X11/Applications
-Requires:       gkrellm
-Provides:       gkrellm-theme
-Obsoletes:      gkrellm-themes
+Summary:	Keramik theme
+Summary(pl):	Motyw keramik
+Group:		X11/Applications
+Requires:	gkrellm
+Provides:	gkrellm-theme
+Obsoletes:	gkrellm-themes
 
 %description -n gkrellm-theme-keramik
 Keramik theme.
@@ -108,12 +108,12 @@ Keramik theme.
 Motyw Keramik.
 
 %package -n gkrellm-theme-yummiyogurt
-Summary:        Yummiyogurt theme
-Summary(pl):    Motyw Yummiyogurt
-Group:          X11/Applications
-Requires:       gkrellm
-Provides:       gkrellm-theme
-Obsoletes:      gkrellm-themes
+Summary:	Yummiyogurt theme
+Summary(pl):	Motyw Yummiyogurt
+Group:		X11/Applications
+Requires:	gkrellm
+Provides:	gkrellm-theme
+Obsoletes:	gkrellm-themes
 
 %description -n gkrellm-theme-yummiyogurt
 Yummiyogurt theme.
@@ -122,12 +122,12 @@ Yummiyogurt theme.
 Motyw Yummiyogurt.
 
 %package -n gkrellm-theme-prime_23
-Summary:        Prime23 theme
-Summary(pl):    Motyw prime23
-Group:          X11/Applications
-Requires:       gkrellm
-Provides:       gkrellm-theme
-Obsoletes:      gkrellm-themes
+Summary:	Prime23 theme
+Summary(pl):	Motyw prime23
+Group:		X11/Applications
+Requires:	gkrellm
+Provides:	gkrellm-theme
+Obsoletes:	gkrellm-themes
 
 %description -n gkrellm-theme-prime_23
 Prime23 theme.
@@ -136,12 +136,12 @@ Prime23 theme.
 Motyw prime23.
 
 %package -n gkrellm-theme-minE-Gkrellm
-Summary:        minE-Gkrellm theme
-Summary(pl):    Motyw minE-Gkrellm
-Group:          X11/Applications
-Requires:       gkrellm
-Provides:       gkrellm-theme
-Obsoletes:      gkrellm-themes
+Summary:	minE-Gkrellm theme
+Summary(pl):	Motyw minE-Gkrellm
+Group:		X11/Applications
+Requires:	gkrellm
+Provides:	gkrellm-theme
+Obsoletes:	gkrellm-themes
 
 %description -n gkrellm-theme-minE-Gkrellm
 minE-Gkrellm theme.
@@ -150,12 +150,12 @@ minE-Gkrellm theme.
 Motyw minE-Gkrellm.
 
 %package -n gkrellm-theme-klearllm
-Summary:        Klearllm - a simple, transparent skin for GkrellM
-Summary(pl):    Klearllm - prosty, przezroczysty motyw dla GkrellM-a
-Group:          X11/Applications
-Requires:       gkrellm
-Provides:       gkrellm-theme
-Obsoletes:      gkrellm-themes
+Summary:	Klearllm - a simple, transparent skin for GkrellM
+Summary(pl):	Klearllm - prosty, przezroczysty motyw dla GkrellM-a
+Group:		X11/Applications
+Requires:	gkrellm
+Provides:	gkrellm-theme
+Obsoletes:	gkrellm-themes
 
 %description -n gkrellm-theme-klearllm
 Klearllm is a simple, transparent skin for GkrellM that has 3
