@@ -1,5 +1,5 @@
 Summary:	GKrellM - themes
-Summary(pl):	GKrellM - motywy
+Summary(pl.UTF-8):   GKrellM - motywy
 Name:		gkrellm-themes
 Version:	0.10
 Release:	3
@@ -34,12 +34,12 @@ Obsoletes:	gkrellm-theme
 %description
 Additional themes for GKrellM.
 
-%description -l pl
+%description -l pl.UTF-8
 Dodatkowe motywy dla GKrellM-a.
 
 %package -n gkrellm-theme-MonkeyLovers
 Summary:	MonkeyLovers theme
-Summary(pl):	Motyw MonkeyLovers
+Summary(pl.UTF-8):   Motyw MonkeyLovers
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -48,12 +48,12 @@ Obsoletes:	gkrellm-themes
 %description -n gkrellm-theme-MonkeyLovers
 MonkeyLovers theme.
 
-%description -n gkrellm-theme-MonkeyLovers -l pl
+%description -n gkrellm-theme-MonkeyLovers -l pl.UTF-8
 Motyw MonkeyLovers.
 
 %package -n gkrellm-theme-Yellow
 Summary:	Yellow theme
-Summary(pl):	Motyw Yellow
+Summary(pl.UTF-8):   Motyw Yellow
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -62,12 +62,12 @@ Obsoletes:	gkrellm-themes
 %description -n gkrellm-theme-Yellow
 Yellow theme.
 
-%description -n gkrellm-theme-Yellow -l pl
+%description -n gkrellm-theme-Yellow -l pl.UTF-8
 Motyw Yellow.
 
 %package -n gkrellm-theme-niumx
 Summary:	Niumx theme
-Summary(pl):	Motyw Niumx
+Summary(pl.UTF-8):   Motyw Niumx
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -76,12 +76,12 @@ Obsoletes:	gkrellm-themes
 %description -n gkrellm-theme-niumx
 Niumx theme.
 
-%description -n gkrellm-theme-niumx -l pl
+%description -n gkrellm-theme-niumx -l pl.UTF-8
 Motyw Niumx.
 
 %package -n gkrellm-theme-Milk
 Summary:	Milk theme
-Summary(pl):	Motyw Milk
+Summary(pl.UTF-8):   Motyw Milk
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -90,12 +90,12 @@ Obsoletes:	gkrellm-themes
 %description -n gkrellm-theme-Milk
 Milk theme.
 
-%description -n gkrellm-theme-Milk -l pl
+%description -n gkrellm-theme-Milk -l pl.UTF-8
 Motyw Milk.
 
 %package -n gkrellm-theme-keramik
 Summary:	Keramik theme
-Summary(pl):	Motyw keramik
+Summary(pl.UTF-8):   Motyw keramik
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -104,12 +104,12 @@ Obsoletes:	gkrellm-themes
 %description -n gkrellm-theme-keramik
 Keramik theme.
 
-%description -n gkrellm-theme-keramik -l pl
+%description -n gkrellm-theme-keramik -l pl.UTF-8
 Motyw Keramik.
 
 %package -n gkrellm-theme-yummiyogurt
 Summary:	Yummiyogurt theme
-Summary(pl):	Motyw Yummiyogurt
+Summary(pl.UTF-8):   Motyw Yummiyogurt
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -118,12 +118,12 @@ Obsoletes:	gkrellm-themes
 %description -n gkrellm-theme-yummiyogurt
 Yummiyogurt theme.
 
-%description -n gkrellm-theme-yummiyogurt -l pl
+%description -n gkrellm-theme-yummiyogurt -l pl.UTF-8
 Motyw Yummiyogurt.
 
 %package -n gkrellm-theme-prime_23
 Summary:	Prime23 theme
-Summary(pl):	Motyw prime23
+Summary(pl.UTF-8):   Motyw prime23
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -132,12 +132,12 @@ Obsoletes:	gkrellm-themes
 %description -n gkrellm-theme-prime_23
 Prime23 theme.
 
-%description -n gkrellm-theme-prime_23 -l pl
+%description -n gkrellm-theme-prime_23 -l pl.UTF-8
 Motyw prime23.
 
 %package -n gkrellm-theme-minE-Gkrellm
 Summary:	minE-Gkrellm theme
-Summary(pl):	Motyw minE-Gkrellm
+Summary(pl.UTF-8):   Motyw minE-Gkrellm
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -146,12 +146,12 @@ Obsoletes:	gkrellm-themes
 %description -n gkrellm-theme-minE-Gkrellm
 minE-Gkrellm theme.
 
-%description -n gkrellm-theme-minE-Gkrellm -l pl
+%description -n gkrellm-theme-minE-Gkrellm -l pl.UTF-8
 Motyw minE-Gkrellm.
 
 %package -n gkrellm-theme-klearllm
 Summary:	Klearllm - a simple, transparent skin for GkrellM
-Summary(pl):	Klearllm - prosty, przezroczysty motyw dla GkrellM-a
+Summary(pl.UTF-8):   Klearllm - prosty, przezroczysty motyw dla GkrellM-a
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -161,9 +161,9 @@ Obsoletes:	gkrellm-themes
 Klearllm is a simple, transparent skin for GkrellM that has 3
 different text color schemes.
 
-%description -n gkrellm-theme-klearllm -l pl
-Klearllm jest prostym, przezroczystym motywem dla GkrellM-a, który
-posiada 3 ró¿ne zestawy kolorów tekstu.
+%description -n gkrellm-theme-klearllm -l pl.UTF-8
+Klearllm jest prostym, przezroczystym motywem dla GkrellM-a, ktÃ³ry
+posiada 3 rÃ³Å¼ne zestawy kolorÃ³w tekstu.
 
 %prep
 
