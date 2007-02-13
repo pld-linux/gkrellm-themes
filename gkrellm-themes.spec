@@ -1,5 +1,5 @@
 Summary:	GKrellM - themes
-Summary(pl.UTF-8):   GKrellM - motywy
+Summary(pl.UTF-8):	GKrellM - motywy
 Name:		gkrellm-themes
 Version:	0.10
 Release:	3
@@ -39,7 +39,7 @@ Dodatkowe motywy dla GKrellM-a.
 
 %package -n gkrellm-theme-MonkeyLovers
 Summary:	MonkeyLovers theme
-Summary(pl.UTF-8):   Motyw MonkeyLovers
+Summary(pl.UTF-8):	Motyw MonkeyLovers
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -53,7 +53,7 @@ Motyw MonkeyLovers.
 
 %package -n gkrellm-theme-Yellow
 Summary:	Yellow theme
-Summary(pl.UTF-8):   Motyw Yellow
+Summary(pl.UTF-8):	Motyw Yellow
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -67,7 +67,7 @@ Motyw Yellow.
 
 %package -n gkrellm-theme-niumx
 Summary:	Niumx theme
-Summary(pl.UTF-8):   Motyw Niumx
+Summary(pl.UTF-8):	Motyw Niumx
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -81,7 +81,7 @@ Motyw Niumx.
 
 %package -n gkrellm-theme-Milk
 Summary:	Milk theme
-Summary(pl.UTF-8):   Motyw Milk
+Summary(pl.UTF-8):	Motyw Milk
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -95,7 +95,7 @@ Motyw Milk.
 
 %package -n gkrellm-theme-keramik
 Summary:	Keramik theme
-Summary(pl.UTF-8):   Motyw keramik
+Summary(pl.UTF-8):	Motyw keramik
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -109,7 +109,7 @@ Motyw Keramik.
 
 %package -n gkrellm-theme-yummiyogurt
 Summary:	Yummiyogurt theme
-Summary(pl.UTF-8):   Motyw Yummiyogurt
+Summary(pl.UTF-8):	Motyw Yummiyogurt
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -123,7 +123,7 @@ Motyw Yummiyogurt.
 
 %package -n gkrellm-theme-prime_23
 Summary:	Prime23 theme
-Summary(pl.UTF-8):   Motyw prime23
+Summary(pl.UTF-8):	Motyw prime23
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -137,7 +137,7 @@ Motyw prime23.
 
 %package -n gkrellm-theme-minE-Gkrellm
 Summary:	minE-Gkrellm theme
-Summary(pl.UTF-8):   Motyw minE-Gkrellm
+Summary(pl.UTF-8):	Motyw minE-Gkrellm
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
@@ -151,7 +151,7 @@ Motyw minE-Gkrellm.
 
 %package -n gkrellm-theme-klearllm
 Summary:	Klearllm - a simple, transparent skin for GkrellM
-Summary(pl.UTF-8):   Klearllm - prosty, przezroczysty motyw dla GkrellM-a
+Summary(pl.UTF-8):	Klearllm - prosty, przezroczysty motyw dla GkrellM-a
 Group:		X11/Applications
 Requires:	gkrellm
 Provides:	gkrellm-theme
